@@ -1,0 +1,10 @@
+{
+    "db": {
+        "host": "localhost",
+        "user": "youruser",
+        "password": "yourpassword",
+        "database": "yourdatabase",
+        "charset": "utf8mb4",
+        "rejectEmpty": true
+    }
+}
